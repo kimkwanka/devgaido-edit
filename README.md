@@ -1,2 +1,2 @@
 # devgaido-edit
-Proof of concept for devGaido content creation app
+devGaido content creation app proof of concept 
